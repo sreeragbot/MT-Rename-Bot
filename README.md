@@ -2,13 +2,13 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rename-Bot?style=social">
+  <a href="https://github.com/Rafeeq-99/MT-Rename-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/Rafeeq-99/MT-Rename-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/MRK-YT/MT-Rename-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Rename-Bot?label=Fork&style=social">
+  <a href="https://github.com/Rafeeq-99/MT-Rename-Bot">
+    <img src="https://img.shields.io/github/forks/Rafeeq-99/MT-Rename-Bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -24,7 +24,7 @@ Tutorial Video👇
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 
 Deploy To Hereku👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rafeeq-99/MT-Rename-Bot)
 </pre>
 </p>
 </details>
