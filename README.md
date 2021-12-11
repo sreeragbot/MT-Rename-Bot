@@ -37,7 +37,7 @@ Deploy To Hereku👇
 <pre>
 If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through
 
-[Telegram](https://telegram.dog/No_OnE_Kn0wS_Me) 
+[Telegram](Https://telegram.dog/MRKT_Tech_Group) 
 
 Also Support Our
 [Mrkt Tech](Https://telegram.dog/MRKT_Tech) 
