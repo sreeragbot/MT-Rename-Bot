@@ -92,7 +92,7 @@ Also Support Our
 <img src="https://badgen.net/badge/Name/Mrkt Tech/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
 <a href="Https://telegram.dog/MRKT_Tech"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
-<a href="https://github.com/Rafeeq-99T"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
+<a href="https://github.com/Rafeeq-99"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
 <a href="https://youtube.com/channel/UC4sW04as2P-N6bP5D8E89qQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <a href="https://instagram.com/mrkt_tach"><img src="https://badgen.net/badge/Follow%20on%20/Instagram/80FF00?icon=Instagram&labelColor=black"></a>
 <p align="left">
