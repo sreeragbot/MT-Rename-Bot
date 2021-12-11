@@ -100,11 +100,11 @@ async def start_me(bot, update):
             [
                 [
                         InlineKeyboardButton("🤔Help", callback_data = "ghelp"),
-                        InlineKeyboardButton('Other Bots🤖', url='https://t.me/Mo_Tech_YT/141')
+                        InlineKeyboardButton('Other Bots🤖', url='Https://telegram.dog/MRKT_Tech')
                 ],
                 [
-                    InlineKeyboardButton('🗣️ Any Doubt', url='https://t.me/Mo_Tech_Group'),
-                    InlineKeyboardButton('Bot Updates 🤖', url='https://t.me/Mo_Tech_YT')
+                    InlineKeyboardButton('🗣️ Any Doubt', url='https://t.me/MRKT_Tech_Group'),
+                    InlineKeyboardButton('Bot Updates 🤖', url='Https://telegram.dog/MRKT_Tech')
                 ],
                 [
                     InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/wCB2zbwEguA')
