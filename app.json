@@ -1,5 +1,5 @@
 {
-  "name": "MT Rename Bot",
+  "name": "MRKT Rename Bot",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/MO_TECH_GROUP",
-  "website": "https://github.com/MoTechYT",
-  "repository": "https://github.com/MRK-YT/MT-Rename-Bot",
+  "success_url": "https://t.me/MRKT_TECH_GROUP",
+  "website": "https://github.com/Rafeeq-99",
+  "repository": "https://github.com/Rafeeq-99/MT-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
