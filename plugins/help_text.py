@@ -181,8 +181,8 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('👨‍🎓Credits', url="https://t.me/Mai_bOTs"),
-                    InlineKeyboardButton('Editing 👨‍💻', url="https://t.me/Mo_Tech_Group")
+                    InlineKeyboardButton('👨‍🎓Credits', url="Https://telegram.dog/MRKT_Tech"),
+                    InlineKeyboardButton('Editing 👨‍💻', url="Https://telegram.dog/MRKT_Tech_Group")
                 ],
                 [
                     InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
