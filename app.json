@@ -10,7 +10,7 @@
   ],
   "success_url": "https://t.me/MRKT_TECH_GROUP",
   "website": "https://github.com/Rafeeq-99",
-  "repository": "https://github.com/Rafeeq-99/MT-Rename-Bot",
+  "repository": "https://github.com/sreeragbot/MT-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
