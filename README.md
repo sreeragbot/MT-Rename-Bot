@@ -2,18 +2,17 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/Rafeeq-99/MT-Rename-Bot/stargazers">
+  <a href="https://github.com/sreeragbot/MT-Rename-Bot">
     <img src="https://img.shields.io/github/stars/Rafeeq-99/MT-Rename-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/Rafeeq-99/MT-Rename-Bot">
+  <a href="https://github.com/sreeragbot/MT-Rename-Bot">
     <img src="https://img.shields.io/github/forks/Rafeeq-99/MT-Rename-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-##### Deploy
 You can deploy this bot anywhere.
 
 <details><summary>Deploy To Heruko</summary>
